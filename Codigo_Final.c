@@ -5,6 +5,7 @@
 * DEPARTAMENTO DE CIENCIA DE LA COMPUTACIÓ
 * CC3086 Programación de Microprocesadores
 * 
+* Programadores: Maria Jose Villafuerte, Sofía Velásquez, Fabiola Contreras, Madeline Castro
 * Proyecto 02 - Fase 02 
 * Fecha: 21/09/2023
 * Descripción: Estadisticas de la Simulacion de la VAS
